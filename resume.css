@@ -1,10 +1,68 @@
-body,h1,h2,h3,h4,h5,h6,p{
+body,h2,h4,h5,h6,p{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-   background-color:rgb(230, 255, 255);
+   background-color:  black;
+   
+  
+
 }
 .p{
-    background-color: rgba(240, 244, 245, 0.938);
+    background-color:rgb(230, 255, 255);
     padding-block: 100px 100px;
     padding: 15px;
     box-shadow: 5px 5px 10px;
+}
+
+
+.dp {
+  
+  vertical-align: middle;
+  
+  border-radius: 45%;
+  width:200px;
+  border: 5px solid ;
+border-style: inset;
+}
+
+.po{
+color:rgb(230, 255, 255);
+width: 55%;
+        float: left;
+        height: 100%;
+        background-color: black;
+        color: #fff;
+        
+
+}
+.right-side{
+	
+        width: 80%;
+        float: right;
+       
+      }
+.lo{
+background-color: rgb(230, 255, 255);
+}
+.he{
+   color:white;
+   text-align:center;
+   font-size:70px;
+  font-family: 'Flamenco';
+}
+.profile_name{
+	font-size:28px;
+	
+font-family: 'Flamenco';}
+
+.right-side img{
+  width:150px;
+  height:20px;
+  
+  
+ 
+ padding: 1px 50px 5px 20px;
+  
+}
+.right-side pre{
+	color:black;
+text-align:right;
 }
